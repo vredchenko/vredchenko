@@ -1,7 +1,6 @@
-## Hi there 👋
+## Github profile landing repository
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vredchenko/)
-
-- 🔭 I'm currently working on cryo electro microscopy automation and private pet projects
-- 🌱 I'm currently learning Model Context Protocol and Quantuum Computing
+This repository (vredchenko/vredchenko) is a special profile repository that:
+- Controls your GitHub profile README
+- Can be used to store profile-related configurations
+- Is automatically displayed on your profile page
